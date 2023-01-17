@@ -29,6 +29,13 @@
             {
               "client_id": "1058175430164-ikudakt9miksnofv8ovaqefdbl5vaq75.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "1058175430164-mvhcqll182ke048kj1b3tf571veegjbo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jarnamaApp"
+              }
             }
           ]
         }
